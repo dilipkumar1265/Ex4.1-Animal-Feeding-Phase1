@@ -113,7 +113,7 @@ public class MoveForward : MonoBehaviour
 ```
 
 ## Output:
-![](./arvr.png)
+![animal-1](https://github.com/Brindha77/Ex4.1-Animal-Feeding-Phase1/assets/118889143/85279186-c6a2-475b-8c02-678188f1f58d)
 
 
 ## Result:
